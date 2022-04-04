@@ -1,0 +1,86 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7549348",
+      "name": "搜索",
+      "font_class": "RectangleCopy",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "7549350",
+      "name": "用户",
+      "font_class": "RectangleCopy1",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "7549362",
+      "name": "设置/管理",
+      "font_class": "RectangleCopy2",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "7549818",
+      "name": "锁",
+      "font_class": "RectangleCopy3",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "7549830",
+      "name": "解锁",
+      "font_class": "RectangleCopy4",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "7551131",
+      "name": "用户管理",
+      "font_class": "RectangleCopy5",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "7551133",
+      "name": "人群管理",
+      "font_class": "RectangleCopy6",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "7551134",
+      "name": "商家管理",
+      "font_class": "RectangleCopy7",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "7551135",
+      "name": "分销商管理",
+      "font_class": "RectangleCopy8",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "7551213",
+      "name": "商品管理",
+      "font_class": "RectangleCopy9",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "7551480",
+      "name": "结算报表",
+      "font_class": "RectangleCopy10",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    }
+  ]
+}
